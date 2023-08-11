@@ -1,2 +1,9 @@
 git init: initialize repo
 git status: check status of the repo
+git add <file_name>: adds the file to the branch
+git add .: adds all the changes in the folder to the repo/ adds all files for commit
+git commit -m "": commit staged changes with a message
+git config --global user.name "": sets global user name
+(same thing can be done for email)
+git diff: checks the differences since the previous commit
+
