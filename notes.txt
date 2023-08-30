@@ -1,0 +1,14 @@
+git init: initialize repo
+git status: check status of the repo
+git add <file_name>: adds the file to the branch
+git add .: adds all the changes in the folder to the repo/ adds all files for commit
+git commit -m "": commit staged changes with a message
+git config --global user.name "": sets global user name
+(same thing can be done for email)
+git diff <optional argument for choosing between specific versions>: checks the differences since the previous commit
+git log: shows log of changes
+the git we use locally needs to be pushed into the global github/public github
+git remote add origin <address of the repository to push in>: add remote origin to repo
+git push -u origin <branch name>: push changes to the remote repo
+
+
