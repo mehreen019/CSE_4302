@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1694168450 source:c:\users\asus\desktop\cse 4302\lab 5\210041219_l5task1\main.cpp
+	<iostream>
+	"SavingsAccount.h"
+	"Student.h"
+	"Employee.h"
+
+1694164381 c:\users\asus\desktop\cse 4302\lab 5\210041219_l5task1\include\savingsaccount.h
+	<iostream>
+
+1694164568 source:c:\users\asus\desktop\cse 4302\lab 5\210041219_l5task1\src\savingsaccount.cpp
+	"SavingsAccount.h"
+
+1694167805 source:c:\users\asus\desktop\cse 4302\lab 5\210041219_l5task1\src\student.cpp
+	"Student.h"
+
+1694167805 c:\users\asus\desktop\cse 4302\lab 5\210041219_l5task1\include\student.h
+	<iostream>
+
+1694168357 source:c:\users\asus\desktop\cse 4302\lab 5\210041219_l5task1\src\employee.cpp
+	"Employee.h"
+
+1694168369 c:\users\asus\desktop\cse 4302\lab 5\210041219_l5task1\include\employee.h
+	<iostream>
+	<string>
+
