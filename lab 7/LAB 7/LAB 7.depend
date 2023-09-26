@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1695380044 source:c:\users\asus\desktop\cse 4302\lab 7\lab 7\main.cpp
+	"BookCollection.h"
+	"CurrencyBDT.h"
+	"CurrencyDollar.h"
+	"CurrencyEuro.h"
+	"CurrencyConverter.h"
+
+1695375370 c:\users\asus\desktop\cse 4302\lab 7\lab 7\include\bookcollection.h
+	<iostream>
+
+1695375405 source:c:\users\asus\desktop\cse 4302\lab 7\lab 7\src\bookcollection.cpp
+	"BookCollection.h"
+
+1695378559 source:c:\users\asus\desktop\cse 4302\lab 7\lab 7\src\currencybdt.cpp
+	"CurrencyBDT.h"
+
+1695378554 c:\users\asus\desktop\cse 4302\lab 7\lab 7\include\currencybdt.h
+	<iostream>
+	<math.h>
+
+1695379650 source:c:\users\asus\desktop\cse 4302\lab 7\lab 7\src\currencyeuro.cpp
+	"CurrencyEuro.h"
+
+1695376677 c:\users\asus\desktop\cse 4302\lab 7\lab 7\include\currencyeuro.h
+	"CurrencyBDT.h"
+
+1695379665 source:c:\users\asus\desktop\cse 4302\lab 7\lab 7\src\currencydollar.cpp
+	"CurrencyDollar.h"
+
+1695376496 c:\users\asus\desktop\cse 4302\lab 7\lab 7\include\currencydollar.h
+	"CurrencyBDT.h"
+
+1695380044 source:c:\users\asus\desktop\cse 4302\lab 7\lab 7\src\currencyconverter.cpp
+	"CurrencyConverter.h"
+
+1695379384 c:\users\asus\desktop\cse 4302\lab 7\lab 7\include\currencyconverter.h
+	<iostream>
+

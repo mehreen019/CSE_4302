@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1694775883 source:c:\users\asus\desktop\cse 4302\lab 6\210041219_lab6\main.cpp
+	<iostream>
+	"Counter.h"
+	"FLOAT.h"
+	"Coordinate.h"
+	"Matrix3D.h"
+
+1694769961 source:c:\users\asus\desktop\cse 4302\lab 6\210041219_lab6\src\counter.cpp
+	"Counter.h"
+
+1694769803 c:\users\asus\desktop\cse 4302\lab 6\210041219_lab6\include\counter.h
+	<iostream>
+
+1694775616 source:c:\users\asus\desktop\cse 4302\lab 6\210041219_lab6\src\matrix3d.cpp
+	"Matrix3D.h"
+
+1694775627 c:\users\asus\desktop\cse 4302\lab 6\210041219_lab6\include\matrix3d.h
+	<iostream>
+
+1694771296 c:\users\asus\desktop\cse 4302\lab 6\210041219_lab6\include\float.h
+	<iostream>
+
+1694771296 source:c:\users\asus\desktop\cse 4302\lab 6\210041219_lab6\src\float.cpp
+	"FLOAT.h"
+
+1694775197 source:c:\users\asus\desktop\cse 4302\lab 6\210041219_lab6\src\coordinate.cpp
+	"Coordinate.h"
+
+1694775197 c:\users\asus\desktop\cse 4302\lab 6\210041219_lab6\include\coordinate.h
+	<iostream>
+	<math.h>
+
