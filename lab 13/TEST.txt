@@ -1,0 +1,7 @@
+pat,23
+maxwell,201
+sakib,15
+mahmudullah,110
+boyle,73
+kohli,51
+dhawan,51

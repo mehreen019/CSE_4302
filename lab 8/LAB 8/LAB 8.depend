@@ -1,0 +1,105 @@
+# depslib dependency file v1.0
+1697822592 source:c:\users\asus\desktop\cse 4302\lab 8\lab 8\main.cpp
+	<iostream>
+	"rectangle.h"
+	"circle.h"
+	"cube.h"
+	"cylinder.h"
+	"car.h"
+
+1697797030 source:c:\users\asus\desktop\cse 4302\lab 8\lab 8\src\rectangle.cpp
+	"rectangle.h"
+
+1697822176 c:\users\asus\desktop\cse 4302\lab 8\lab 8\include\rectangle.h
+	"two_dimensional_shape.h"
+
+1697821869 c:\users\asus\desktop\cse 4302\lab 8\lab 8\include\shape.h
+	<math.h>
+	<iostream>
+
+1697796234 source:c:\users\asus\desktop\cse 4302\lab 8\lab 8\src\shape.cpp
+	"shape.h"
+
+1697797565 source:c:\users\asus\desktop\cse 4302\lab 8\lab 8\src\wheel.cpp
+	"wheel.h"
+
+1697797598 c:\users\asus\desktop\cse 4302\lab 8\lab 8\include\wheel.h
+	<iostream>
+
+1697797251 source:c:\users\asus\desktop\cse 4302\lab 8\lab 8\src\cylinder.cpp
+	"cylinder.h"
+
+1697822205 c:\users\asus\desktop\cse 4302\lab 8\lab 8\include\cylinder.h
+	"three_dimensional_shape.h"
+
+1697797565 source:c:\users\asus\desktop\cse 4302\lab 8\lab 8\src\seat.cpp
+	"seat.h"
+
+1697797565 c:\users\asus\desktop\cse 4302\lab 8\lab 8\include\seat.h
+	<iostream>
+
+1697797660 source:c:\users\asus\desktop\cse 4302\lab 8\lab 8\src\car.cpp
+	"car.h"
+
+1697797565 c:\users\asus\desktop\cse 4302\lab 8\lab 8\include\car.h
+	"wheel.h"
+	"engine.h"
+	"door.h"
+	"seat.h"
+
+1697795377 c:\users\asus\desktop\cse 4302\lab 8\lab 8\include\engine.h
+	<iostream>
+
+1697797598 c:\users\asus\desktop\cse 4302\lab 8\lab 8\include\door.h
+	<iostream>
+
+1697797565 source:c:\users\asus\desktop\cse 4302\lab 8\lab 8\src\door.cpp
+	"door.h"
+
+1697795350 source:c:\users\asus\desktop\cse 4302\lab 8\lab 8\src\engine.cpp
+	"engine.h"
+
+1697795602 source:c:\users\asus\desktop\cse 4302\lab 8\lab 8\src\book.cpp
+	"book.h"
+
+1697795934 c:\users\asus\desktop\cse 4302\lab 8\lab 8\include\book.h
+	<iostream>
+
+1697795835 source:c:\users\asus\desktop\cse 4302\lab 8\lab 8\src\library.cpp
+	"library.h"
+
+1697796100 c:\users\asus\desktop\cse 4302\lab 8\lab 8\include\library.h
+	<vector>
+	"book.h"
+	"member.h"
+
+1697795952 c:\users\asus\desktop\cse 4302\lab 8\lab 8\include\member.h
+	<iostream>
+
+1697795772 source:c:\users\asus\desktop\cse 4302\lab 8\lab 8\src\member.cpp
+	"member.h"
+
+1697797152 source:c:\users\asus\desktop\cse 4302\lab 8\lab 8\src\circle.cpp
+	"circle.h"
+
+1697822209 c:\users\asus\desktop\cse 4302\lab 8\lab 8\include\circle.h
+	"two_dimensional_shape.h"
+
+1697797251 source:c:\users\asus\desktop\cse 4302\lab 8\lab 8\src\cube.cpp
+	"cube.h"
+
+1697822207 c:\users\asus\desktop\cse 4302\lab 8\lab 8\include\cube.h
+	"three_dimensional_shape.h"
+
+1697821644 source:c:\users\asus\desktop\cse 4302\lab 8\lab 8\src\three_dimensional_shape.cpp
+	"three_dimensional_shape.h"
+
+1697821644 c:\users\asus\desktop\cse 4302\lab 8\lab 8\include\three_dimensional_shape.h
+	<shape.h>
+
+1697822442 source:c:\users\asus\desktop\cse 4302\lab 8\lab 8\src\two_dimensional_shape.cpp
+	"two_dimensional_shape.h"
+
+1697821665 c:\users\asus\desktop\cse 4302\lab 8\lab 8\include\two_dimensional_shape.h
+	<shape.h>
+

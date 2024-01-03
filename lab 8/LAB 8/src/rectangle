@@ -1,0 +1,11 @@
+#include "rectangle."
+
+rectangle::rectangle()
+{
+    //ctor
+}
+
+rectangle::~rectangle()
+{
+    //dtor
+}
